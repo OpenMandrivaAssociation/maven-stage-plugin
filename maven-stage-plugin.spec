@@ -6,7 +6,7 @@ Summary:        Plugin to copy artifacts from one repository to another
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/plugins/maven-stage-plugin/
+URL:            https://maven.apache.org/plugins/maven-stage-plugin/
 # svn export http://svn.apache.org/repos/asf/maven/plugins/tags/maven-stage-plugin-1.0-alpha-2/
 # tar jcf maven-stage-plugin-1.0-alpha-2.tar.bz2 maven-stage-plugin-1.0-alpha-2/
 Source0:        %{name}-%{project_version}.tar.bz2
